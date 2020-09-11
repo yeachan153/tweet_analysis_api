@@ -1,0 +1,10 @@
+# Cache
+.mypy_cache
+.pytest_cache
+__pycache__
+
+# Venv
+.venv
+
+# Other
+.DS_Store
