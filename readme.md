@@ -11,4 +11,4 @@ create_trend_table()
 ```
 
 ### Calling API
-Only endpoint available is `GET`, and the query parameter it accepts is a date based on the format `%Y%m%d`. It then gives you a return of all the most re-tweeted text for that hashtag for that day.
+Only method available is `GET`, and the query parameter it accepts is a date based on the format `%Y%m%d`. It then gives you a return of all the most re-tweeted text for that hashtag for that day.
