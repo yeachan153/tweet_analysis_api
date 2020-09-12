@@ -1,0 +1,6 @@
+[
+    {
+        "Id": "1",
+        "Arn": "arn:aws:lambda:eu-central-1:534692912862:function:twitter-trends-dev-analyser"
+    }
+]
